@@ -1,0 +1,4 @@
+# Rancher on Azure : Using Virtual Machine Scale Sets for flexible rancher node scaling
+
+[![Deploy Now](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fxylosdevops%2FXylos-ARM-Docker-Rancher%2Fmaster%2Fnodes-vmss-internal%2Fazuredeploy.json)
+[![Deploy Now](https://camo.githubusercontent.com/536ab4f9bc823c2e0ce72fb610aafda57d8c6c12/687474703a2f2f61726d76697a2e696f2f76697375616c697a65627574746f6e2e706e67)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fxylosdevops%2FXylos-ARM-Docker-Rancher%2Fmaster%2Fnodes-vmss-internal%2Fazuredeploy.json)
